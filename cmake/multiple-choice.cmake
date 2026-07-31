@@ -1,5 +1,6 @@
 # SPDX-FileCopyrightText: 2026 AlgorIT Software Consultancy <https://codeberg.org/algoritnl>
 # SPDX-License-Identifier: BSL-1.0
+# gersemi: off
 
 include_guard(GLOBAL)
 

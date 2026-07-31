@@ -6,6 +6,7 @@ SPDX-License-Identifier: BSL-1.0
 -->
 
 [![REUSE status](https://api.reuse.software/badge/codeberg.org/algoritnl/sqlite)](https://api.reuse.software/info/codeberg.org/algoritnl/sqlite)
+[![pre-commit](https://img.shields.io/github/actions/workflow/status/algoritnl/sqlite/pre-commit.yaml?label=pre-commit&logo=pre-commit&logoColor=white)](https://github.com/algoritnl/sqlite/actions/workflows/pre-commit.yaml)
 [![CI Test](https://github.com/algoritnl/sqlite/actions/workflows/ci-test.yaml/badge.svg)](https://github.com/algoritnl/sqlite/actions/workflows/ci-test.yaml)
 
 A modern CMake build system to build, install, and integrate the official SQLite Amalgamation into C/C++ projects.
