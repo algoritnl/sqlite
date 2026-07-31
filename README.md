@@ -5,6 +5,8 @@ SPDX-FileCopyrightText: 2026 AlgorIT Software Consultancy <https://codeberg.org/
 SPDX-License-Identifier: BSL-1.0
 -->
 
+[![CI Test](https://github.com/algoritnl/sqlite/actions/workflows/ci-test.yaml/badge.svg)](https://github.com/algoritnl/sqlite/actions/workflows/ci-test.yaml)
+
 A modern CMake build system to build, install, and integrate the official SQLite Amalgamation into C/C++ projects.
 
 ## Features
