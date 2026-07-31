@@ -5,6 +5,7 @@ SPDX-FileCopyrightText: 2026 AlgorIT Software Consultancy <https://codeberg.org/
 SPDX-License-Identifier: BSL-1.0
 -->
 
+[![REUSE status](https://api.reuse.software/badge/codeberg.org/algoritnl/sqlite)](https://api.reuse.software/info/codeberg.org/algoritnl/sqlite)
 [![CI Test](https://github.com/algoritnl/sqlite/actions/workflows/ci-test.yaml/badge.svg)](https://github.com/algoritnl/sqlite/actions/workflows/ci-test.yaml)
 
 A modern CMake build system to build, install, and integrate the official SQLite Amalgamation into C/C++ projects.
@@ -33,6 +34,8 @@ Other supported integrations include `FetchContent`  and `add_subdirectory`.
 This repository uses a dual-license structure:
 * The CMake build configurations and tools are licensed under the permissive **BSL-1.0** license.
 * The SQLite source code files in the `source/` directory are redistributed under the official **SQLite Blessing** (`blessing`).
+
+This project is fully REUSE compliant.
 
 ## Legal Disclaimer
 
