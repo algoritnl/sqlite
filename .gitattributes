@@ -1,0 +1,8 @@
+# SPDX-FileCopyrightText: 2026 AlgorIT Software Consultancy <https://codeberg.org/algoritnl>
+# SPDX-License-Identifier: BSL-1.0
+
+* text=auto eol=lf
+
+source/** linguist-vendored
+
+.git* export-ignore
